@@ -1,5 +1,6 @@
-print("Hellow World")
-print("test")
-print("hello")
-print("test")
-print("new")
+print("Hellow World;")
+print("test;")
+print("hello;")
+print("test;")
+print("new;")
+
